@@ -1,4 +1,7 @@
 # Nathan Deodato
+    Este é um projeto para mostrar um pouco de minhas habilidades com designe e também
+    minhas hard skills enquanto software engineer, tendo como meta a a resolução de 
+    problemas em vagas.
 
 
 
