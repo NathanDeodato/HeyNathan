@@ -1,0 +1,52 @@
+.headerBox {
+    width: 60vw;
+    height: 15vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+    .navBox {
+        width: 30%;
+        height: 100%;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+        .linksBox {
+            width: 100%;
+            height: 100%;
+            
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+        }
+            .linkGhost {
+                color: #fff;
+                text-decoration: none;
+            }
+                .liText {
+                    list-style-type: none;
+                } 
+                    .liText:hover {
+                        cursor: pointer;
+
+                        border-bottom: 2px solid #fff;
+                    }
+
+.blogBox {
+    width: 80vw;
+    height: 90vh;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+    .codingBuildingGif {
+        width: 40%;
+    }
+    .titleBuilding {
+        margin-top: 10%;
+    }

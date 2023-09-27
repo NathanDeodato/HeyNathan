@@ -8,8 +8,9 @@
 
 body {
     display: flex;
-    justify-content: center;
+    flex-direction: column;
     align-items: center;
+    justify-content: space-around;
     
     color: #fff;
     background-color: #0D1117;
