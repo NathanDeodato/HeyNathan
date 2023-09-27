@@ -1,13 +1,17 @@
 # Nathan Deodato
-    Este é um projeto para mostrar um pouco de minhas habilidades com designe e também
-    minhas hard skills enquanto software engineer, tendo como meta a a resolução de 
-    problemas em vagas.
+    Este é meu portifólio pessoal. Nesta página mostro um pouco de quem sou e 
+    algumas de minhas hardskills. Além disso, meu blogue pessoal esta em desenvolvimento.
+    Lá irei dar minha opinião, experiências e visão sobre esse vasto universo 
+    que é o mercado de tecnologia.
+    
 
 
 
 ### Image
 
-<img src="./Assets/photo/NathanDeodato%20-%20Portifólio%20Img%201.png">
+<img src="./Assets/photo/NathanCode - page1.png">
+
+<img src="./Assets/photo/NathanCode - page2.png">
 
 ---
 
