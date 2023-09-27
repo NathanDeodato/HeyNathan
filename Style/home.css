@@ -1,0 +1,142 @@
+.pageBox {
+    width: 60vw;
+    height: 180vh;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.infoBox {
+    width: 100%;
+    height: 35%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+    .titleMe {
+        height: 50%;
+    }
+    .infoMe {
+        width: 100%;
+        height: 50%;
+
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+        .nathanPhoto {
+            width: 20%;
+
+            border-radius: 50%;
+        }
+        .nathanText {
+            width: 60%;
+
+            font-weight: 600;
+        }
+
+.techBox {
+    width: 100%;
+    height: 25%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+
+    margin-top: 10%;
+}
+    .techBox1 {
+        width: 60%;
+        
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .techBox2 {
+        width: 60%;
+
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .techIcon {
+        width: 8%;
+    }
+
+.mediaBox {
+    width: 100%;
+    height: 25%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+
+    margin-top: 10%;
+}
+    .mediaButtonBox {
+        width: 80%;
+        height: 60%;
+
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+    .buttonMedia {
+        width: 20%;
+        height: 45%;
+
+        background-color: #272822;
+        border-radius: 10px;
+
+        border: 2px solid #fff;
+    }
+    .link {
+        width: 100%;
+        height: 100%;
+
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        
+        text-decoration: none;
+    }
+    .mediaIcon {
+        width: 18%;
+    }
+    .setaIcon {
+        width: 20%;
+        transform: rotate(320deg);
+    }
+
+.codeBox {
+    width: 60%;
+    height: 8%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 10%;
+    margin-bottom: 10%;
+
+    background-color: #272822;
+    border: 2px solid #fff;
+    border-radius: 10px;
+}
+    .codeDivBox {
+        width: 100%;
+        height: 100%;
+        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .codeCopy {
+        font-weight: bold;
+    }
