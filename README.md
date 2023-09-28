@@ -4,7 +4,7 @@
     Lá irei dar minha opinião, experiências e visão sobre esse vasto universo 
     que é o mercado de tecnologia.
     
-
+---
 
 
 ### Image
