@@ -1,40 +1,3 @@
-.headerBox {
-    width: 60vw;
-    height: 15vh;
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-    .navBox {
-        width: 30%;
-        height: 100%;
-
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-        .linksBox {
-            width: 100%;
-            height: 100%;
-            
-            display: flex;
-            justify-content: space-around;
-            align-items: center;
-        }
-            .linkGhost {
-                color: #fff;
-                text-decoration: none;
-            }
-                .liText {
-                    list-style-type: none;
-                } 
-                    .liText:hover {
-                        cursor: pointer;
-
-                        border-bottom: 2px solid #fff;
-                    }
-
 .mainBox {
     width: 60vw;
     height: 180vh;
@@ -130,12 +93,10 @@
     }
     .buttonMedia {
         width: 20%;
-        height: 45%;
+        height: 40%;
 
         background-color: #272822;
         border-radius: 10px;
-
-        /* border: 2px solid #fff; */
     }
     .link {
         width: 100%;
@@ -163,11 +124,10 @@
     justify-content: center;
     align-items: center;
 
-    margin-top: 15%;
+    margin-top: 5%;
     margin-bottom: 10%;
 
     background-color: #272822;
-    /* border: 2px solid #fff; */
     border-radius: 10px;
 }
     .codeDivBox {
