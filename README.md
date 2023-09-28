@@ -1,8 +1,6 @@
 # Nathan Deodato
     Este é meu portifólio pessoal. Nesta página mostro um pouco de quem sou e 
-    algumas de minhas hardskills. Além disso, meu blogue pessoal esta em desenvolvimento.
-    Lá irei dar minha opinião, experiências e visão sobre esse vasto universo 
-    que é o mercado de tecnologia.
+    algumas de minhas hardskills. 
     
 ---
 
