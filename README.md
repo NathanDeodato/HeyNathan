@@ -11,6 +11,8 @@
 
 <img src="./Assets/photo/NathanCode - page1.png">
 
+---
+
 <img src="./Assets/photo/NathanCode - page2.png">
 
 ---
