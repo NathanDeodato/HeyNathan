@@ -19,7 +19,7 @@
 
 ### Design
 
-<a href="https://www.figma.com/file/ELqzBwY6CAR8YucuNd0Gxm/NathanDeodato---Minimalista?type=design&node-id=0%3A1&mode=design&t=XY7UuCjNLqivCh6M-1">
+<a href="https://www.figma.com/file/ELqzBwY6CAR8YucuNd0Gxm/NathanCode---Portif%C3%B3lio%2FBlog?type=design&t=liky6zaXwudgXeCn-6">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </a>
 
