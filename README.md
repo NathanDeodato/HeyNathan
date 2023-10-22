@@ -11,10 +11,6 @@
 
 ---
 
-<img src="./Assets/photo/NathanCode - page2.png">
-
----
-
 ### Design
 
 <a href="https://www.figma.com/file/ELqzBwY6CAR8YucuNd0Gxm/NathanCode---Portif%C3%B3lio%2FBlog?type=design&t=liky6zaXwudgXeCn-6">
